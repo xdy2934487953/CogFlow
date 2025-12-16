@@ -1,0 +1,31 @@
+ConceptNet数据集统计信息
+==================================================
+原始三元组数量: 34074917
+处理后三元组数量: 2512159
+实体数量: 1863701
+关系数量: 38
+训练集大小: 2009727
+验证集大小: 251215
+测试集大小: 251217
+
+关系类型分布:
+  /r/Synonym: 2084988
+  /r/IsA: 98370
+  /r/RelatedTo: 89171
+  /r/HasContext: 32264
+  /r/AtLocation: 22283
+  /r/SimilarTo: 21324
+  /r/DerivedFrom: 18184
+  /r/Causes: 16911
+  /r/UsedFor: 13817
+  /r/MotivatedByGoal: 13714
+  /r/PartOf: 13010
+  /r/MannerOf: 12702
+  /r/HasSubevent: 12129
+  /r/FormOf: 10679
+  /r/CapableOf: 9462
+  /r/Desires: 5489
+  /r/NotDesires: 5461
+  /r/CausesDesire: 5018
+  /r/MadeOf: 4119
+  /r/HasA: 4028
